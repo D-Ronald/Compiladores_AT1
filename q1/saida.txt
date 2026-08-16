@@ -1,0 +1,6 @@
+Linhas:       2
+Palavras:      10
+Caracteres:      51
+Numeros inteiros:       2
+Numerosflutuantes:       0
+Pontuações:       3
